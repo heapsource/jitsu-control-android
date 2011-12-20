@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JitsuControlActivity!</string>
+    <string name="app_name">Jitsu Control</string>
+    <string name="login_progress">Checking Nodejitsu Credentials</string>
+    <string name="dashboard_apps">Applications</string>
+    <string name="dashboard_databases">Databases</string>
+    <string name="dashboard_title">%s\'s Dashboard</string>
+    <string name="login_title">Nodejitsu Login</string>
+    <string name="logout">Log out</string>
+    <string name="login">Log in</string>
+    <string name="goto_dashboard">Dashboard</string>
+    <string name="applications_title">%s\'s Applications</string>
+    <string name="applications_progress">Loading applications</string>
+    <string name="snapshots_title">%s\'s Snapshots</string>
+    <string name="snapshots_progress">Loading snapshots</string>
+    <string name="snapshot_activate">Activate</string>
+    <string name="databases_title">%s\'s Databases</string>
+    <string name="about_title">About JItsu Control</string>
+
+</resources>
